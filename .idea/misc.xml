@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ChatClient1/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatClient2/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatClient3/pom.xml" />
+        <option value="$PROJECT_DIR$/ServerToServerContract/pom.xml" />
+        <option value="$PROJECT_DIR$/ServerToRingManagerContract/pom.xml" />
+        <option value="$PROJECT_DIR$/ClientToServerContract/pom.xml" />
+        <option value="$PROJECT_DIR$/ClientToRingManagerContract/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatServer3/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatServer2/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatServer1/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRingManager/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatClient/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Client/pom.xml" />
+        <option value="$PROJECT_DIR$/Server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

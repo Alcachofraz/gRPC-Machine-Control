@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ClientToServerContract" />
+        <module name="Server" />
+        <module name="Client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ChatClient2" target="11" />
+      <module name="ChatClient3" target="11" />
+      <module name="ChatRingManager" target="11" />
+      <module name="ChatServer2" target="11" />
+      <module name="ChatServer3" target="11" />
+      <module name="Client" target="11" />
+      <module name="ClientToRingManagerContract" target="11" />
+      <module name="ClientToServerContract" target="11" />
+      <module name="Server" target="11" />
+      <module name="ServerToRingManagerContract" target="11" />
+      <module name="ServerToServerContract" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

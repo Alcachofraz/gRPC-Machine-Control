@@ -1,0 +1,19 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+option java_multiple_files = true;
+option java_package = "machine_control";
+
+package forum;
+
+service MachineControl {
+    rpc register(Machine) returns (stream Control);
+}
+
+message Machine {
+    int32 id = 1;
+}
+
+message Control {
+    string instruction = 2;
+}
+
